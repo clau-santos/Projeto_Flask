@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request    #importação do flask, render template e request
-#test
+#clau
 import requests, os, uuid, json #importação das bibliotecas que serão usadas ao realizar o chamado de tradução
 
 from dotenv import load_dotenv
