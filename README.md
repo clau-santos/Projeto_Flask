@@ -1,6 +1,6 @@
 # Aplicativo Web de Tradução
 
-<img src=" app.png">
+<img src="app.png">
  
 > Projeto de criação de um aplicativo Web de IA usando Python e Flask, seguindo roteiro que se encontra no Microsoft Learn.
 
