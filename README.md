@@ -26,7 +26,7 @@ O Tradutor é um serviço de tradução automática baseado na nuvem. Ele detect
 
 O Tradutor é integrado aos aplicatibos, sites, ferramentas e soluções e permite a tradução de textos em tempo real em mais de 70 idiomas.
 
-Para chamar o serviço de tradução é necessário uma chave. Essa chave sempre será utilizada ao acessar o serviço. Os dados para a chamada da API estarão em um arquivo .env
+Para chamar o serviço de tradução é necessário uma chave. Essa chave sempre será utilizada ao acessar o serviço. Os dados para a chamada da API estarão em um arquivo `.env`.
 
 
 ## 💻 Pré-requisitos
