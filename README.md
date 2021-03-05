@@ -12,7 +12,7 @@
 
 
 
-## 🚀Serviços Cognitivos Azure
+## 💻 Serviços Cognitivos Azure
 
 Os Serviços Cognitivos são um conjunto de algoritmos que utilizam machine learning para solucionar problemas no campo da inteligência artificial. 
 
@@ -20,7 +20,7 @@ Os serviços cognitivos tornam a IA acessível a todos os desenvolvedores sem ne
 
 Para utilizar os serviços, basta fazer uma chamada da API (Application Programming Interface) a partir da sua aplicação para adicionar a capacidade de ver (pesquisa e reconhecimento de imagem avançada), ouvir, falar, pesquisar e tomar decisões nas suas apps.
 
-### Serviço Cognitivo de Tradução
+### 🚀 Serviço Cognitivo de Tradução
 
 O Tradutor é um serviço de tradução automática baseado na nuvem. Ele detecta autimaticamente o idioma de origem e pode traduzir para vários idiomas de destino em uma chamada. 
 
