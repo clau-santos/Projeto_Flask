@@ -82,13 +82,3 @@ def index_post():
     6 - Chama o render_template, que exibirá a página de results com o texto traduzido, o texto original 
     e a linguagem selecionada 
     '''
-
-if __name__ == '__main__':
-   app.run(debug = True)
-
-'''
-    Instrução condicional if é satisfeita e o método app.run () será executado. 
-    O modo Debug é ativado ao passar o valor TRUE par o parâmetro debug.
-'''
-
-
